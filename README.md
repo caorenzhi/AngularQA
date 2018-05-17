@@ -44,5 +44,6 @@ You should be able to find a file named AngularPrediction.txt in the output fold
 
 
 --------------------------------------------------------------------------------------
-Developed by Prof. Renzhi Cao and Matthew Conover at Pacific Lutheran University:
-Renzhi Cao: caora@plu.edu (PI)
+Developed by Matthew Conover and Prof. Renzhi Cao at Pacific Lutheran University:
+
+Please contact Renzhi Cao for any questions: caora@plu.edu (PI)
