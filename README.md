@@ -33,12 +33,16 @@ sudo pip install python-h5py
 # Run software
 --------------------------------------------------------------------------------------
 You could provide one PDB format model or a folder with several PDB format models for this software. Here are examples to test:
+
 #cd script
+
 #python3 AngularQA.py ../test/T0759.pdb ../test/Prediction_singleModel
+
 #python3 AngularQA.py ../test/Models ../test/Prediction_ModelPool
 
 You should be able to find a file named AngularPrediction.txt in the output folder.
 
 
+--------------------------------------------------------------------------------------
 Developed by Prof. Renzhi Cao and Matthew Conover at Pacific Lutheran University:
 Renzhi Cao: caora@plu.edu (PI)
