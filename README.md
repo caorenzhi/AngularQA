@@ -13,15 +13,18 @@ Ubuntu, Centos
 # Requirements
 --------------------------------------------------------------------------------------
 (1). Python3.5
+
 (2). TensorFlow 
 ```
 sudo pip install tensorflow
 ```
 GPU is NOT needed.
+
 (3) Install Keras:
 ```
 sudo pip install keras
 ```
+
 (4) Install the h5py library:  
 ```
 sudo pip install python-h5py
