@@ -27,7 +27,7 @@ sudo pip install keras
 
 (4) Install the h5py library:  
 ```
-sudo pip install python-h5py
+sudo pip install h5py
 ```
 
 # Run software
