@@ -4,7 +4,7 @@ AngularQA is a single-model quality assessment tool to evaluate quality of predi
 
 # Citation
 --------------------------------------------------------------------------------------
-Matthew Conover, Max Staples, Dong Si, Renzhi Cao. "AngularQA: Protein Model Quality Assessment with LSTM Networks", submitted, 2018.
+Conover, Matthew, Max Staples, Dong Si, Miao Sun, and Renzhi Cao. "AngularQA: protein model quality assessment with LSTM networks." Computational and Mathematical Biophysics 7, no. 1 (2019): 1-9.
 
 # Test Environment
 --------------------------------------------------------------------------------------
