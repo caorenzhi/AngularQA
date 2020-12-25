@@ -29,6 +29,16 @@ sudo pip install keras
 ```
 sudo pip install h5py
 ```
+As reference, here is the environment I have used for those packages:
+python==3.5.6
+h5py==2.9.0
+Keras==2.3.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+numpy==1.16.2
+tensorflow==1.13.0rc1
+tensorflow-estimator==1.13.0rc0
+tensorflow-gpu==1.2.1
 
 # Run software
 --------------------------------------------------------------------------------------
